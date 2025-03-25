@@ -1,0 +1,17 @@
+# Arduino
+*.elf
+*.hex
+*.o
+*.d
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Local files
+*.local
+*.bak
